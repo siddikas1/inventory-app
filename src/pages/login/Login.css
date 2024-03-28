@@ -1,0 +1,105 @@
+  
+.login-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff; /* Set background color to white */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    background-color: #adc6e6; /* Set background color to light blue */
+    /* height: 100vh;  */
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+  
+  .title {
+    font-size: xx-large ;
+    color: #004080; /* Deep blue color */
+    margin-bottom: 20px; /* Add some bottom margin for spacing */
+    border-bottom: 2px solid black; /* Add a solid black bottom border */
+    padding-bottom: 10px; /* Add padding to space the text from the border */
+      }
+      
+.sub-title{
+    color: #050607; /* Deep blue color */
+    margin-bottom: 20px; /* Add some bottom margin for spacing */
+    /* border-bottom: 2px solid black;  */
+    padding-bottom: 10px; /* Add padding to space the text from the border */
+      }
+  
+  
+
+  /*.form-group {
+    margin-bottom: 15px;
+   
+  } */
+  
+  .label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+ 
+  .btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px; /* Add margin-top for spacing */
+    align-self: center; /* Center the button horizontally */
+    align-items: center;
+  }
+  
+
+  /*.btn:hover {
+    background-color: #0056b3;
+   
+  } */
+  
+ /* .error-message {
+    color: red;
+    margin-bottom: 10px;
+  } */
+  
+   body {
+    background-color: #b3d9ff; /* Light blue background color */
+   }
+  
+  
+
+
+/*
+   .login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+  } */
+  
+  .title {
+    margin-bottom: 50px; /* Add margin to provide spacing */
+  }
+  
+  .form-group {
+    margin-bottom: 20px; /* Add margin between form elements */
+  }
+  
